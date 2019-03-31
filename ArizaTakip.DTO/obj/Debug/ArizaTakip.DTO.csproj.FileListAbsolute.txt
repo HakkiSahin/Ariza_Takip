@@ -1,0 +1,18 @@
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakip.DTO.dll
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakip.DTO.pdb
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakipEntities.dll
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakipEntities.pdb
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.csproj.CopyComplete
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.dll
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakip.DTO.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakip.DTO.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakip.Entities.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\bin\Debug\ArizaTakip.Entities.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.csproj.CopyComplete
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.DTO\obj\Debug\ArizaTakip.DTO.pdb

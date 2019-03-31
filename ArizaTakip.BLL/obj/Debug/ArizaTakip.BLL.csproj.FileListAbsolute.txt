@@ -1,0 +1,16 @@
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.BLL.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.BLL.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.DAL.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.DTO.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.Entities.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.DAL.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.DAL.dll.config
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.DTO.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\bin\Debug\ArizaTakip.Entities.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.csproj.CopyComplete
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.BLL\obj\Debug\ArizaTakip.BLL.pdb
