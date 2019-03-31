@@ -1,0 +1,34 @@
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.UI.WinForm.exe.config
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.UI.WinForm.exe
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.UI.WinForm.pdb
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.frmLogin.resources
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.frmMain.resources
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.Properties.Resources.resources
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.exe
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.UI.WinForm.exe.config
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.UI.WinForm.exe
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.UI.WinForm.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.BLL.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.DTO.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.Entities.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.DAL.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.BLL.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.DTO.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.Entities.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.DAL.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\bin\Debug\ArizaTakip.DAL.dll.config
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.frmIslem.resources
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.frmLogin.resources
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.frmMain.resources
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.frmYeniIslem.resources
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.Properties.Resources.resources
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.csproj.CopyComplete
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.exe
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.UI.WinForm\obj\Debug\ArizaTakip.UI.WinForm.pdb

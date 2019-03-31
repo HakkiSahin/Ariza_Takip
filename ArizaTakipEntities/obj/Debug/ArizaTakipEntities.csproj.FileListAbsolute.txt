@@ -1,0 +1,6 @@
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakipEntities\bin\Debug\ArizaTakipEntities.dll
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakipEntities\bin\Debug\ArizaTakipEntities.pdb
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakipEntities\obj\Debug\ArizaTakipEntities.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakipEntities\obj\Debug\ArizaTakipEntities.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakipEntities\obj\Debug\ArizaTakipEntities.dll
+C:\Users\Hakki Sahin\Desktop\--\ArizaTakip\ArizaTakipEntities\obj\Debug\ArizaTakipEntities.pdb

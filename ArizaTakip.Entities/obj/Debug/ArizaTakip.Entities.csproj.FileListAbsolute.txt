@@ -1,0 +1,6 @@
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.Entities\bin\Debug\ArizaTakip.Entities.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.Entities\bin\Debug\ArizaTakip.Entities.pdb
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.Entities\obj\Debug\ArizaTakip.Entities.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.Entities\obj\Debug\ArizaTakip.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.Entities\obj\Debug\ArizaTakip.Entities.dll
+C:\Users\Hakki Sahin\Desktop\Bilge Adam dersleri\ArizaTakip\ArizaTakip.Entities\obj\Debug\ArizaTakip.Entities.pdb
